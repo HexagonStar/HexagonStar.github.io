@@ -42,7 +42,7 @@ My previous research primarily focused on **AI for Science**. Specifically, I ex
 
 Jun Xia\*, Lecheng Zhang\*, **Xiao Zhu**\*, Yue Liu, Zhangyang Gao, Bozhen Hu, Cheng Tan, Jiangbin Zheng, Siyuan Li, Stan Z. Li
 
-**NeurIPS 2023** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf) | [Code](https://github.com/junxia97/IFM) 
+**NeurIPS 2023** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf) | [Code](https://github.com/junxia97/IFM) ｜ ![Stars](https://img.shields.io/github/stars/junxia97/IFM)
 <!-- </div>
 </div> -->
 
@@ -53,7 +53,7 @@ Jun Xia\*, Lecheng Zhang\*, **Xiao Zhu**\*, Yue Liu, Zhangyang Gao, Bozhen Hu, C
 
 Yuhan Li\*, Peisong Wang\*, **Xiao Zhu**, Aochuan Chen, Haiyun Jiang, Deng Cai, Victor Wai Kin Chan, Jia Li
 
-**Under Review** | [Paper](https://arxiv.org/abs/2407.07457) | [Code](https://github.com/NineAbyss/GLBench) 
+**Under Review** | [Paper](https://arxiv.org/abs/2407.07457) | [Code](https://github.com/NineAbyss/GLBench) ｜ ![Stars](https://img.shields.io/github/stars/NineAbyss/GLBench)
 <!-- </div>
 </div> -->
 
@@ -65,7 +65,7 @@ Yuhan Li\*, Peisong Wang\*, **Xiao Zhu**, Aochuan Chen, Haiyun Jiang, Deng Cai, 
 
 **Xiao Zhu**, Chenchen Qin, Fang Wang, Fan Yang, Bing He, Yu Zhao, Jianhua Yao
 
-**Under Review** | [Paper](https://www.biorxiv.org/content/10.1101/2024.06.24.600337v1.abstract) | [Code](https://github.com/TencentAI4S/CD-GPT) 
+**Under Review** | [Paper](https://www.biorxiv.org/content/10.1101/2024.06.24.600337v1.abstract) | [Code](https://github.com/TencentAI4S/CD-GPT) ｜ ![Stars](https://img.shields.io/github/stars/TencentAI4S/CD-GPT)
 <!-- </div>
 </div> -->
 
