@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guanzhou Chen"
-description              : "Guanzhou Chen's Homepage. "
-repository               : "Oranger-cc/gzchen.github.io"
+title                    : "Xiao Zhu"
+description              : "Xiao Zhu's Homepage. "
+repository               : "HexagonStar/HexagonStar.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Guanzhou Chen"
-  avatar           : "images/avatar_512x512.jpg"
-  bio              : "Undergraduate at Beijing University of Posts and Telecommunications."
-  location         : "Beijing, China"
+  name             : "Xiao Zhu"
+  avatar           : "images/avatar/android-chrome-512x512.png"
+  bio              : "Mphil at The Hong Kong Unsiversity of Science and Technology (Guangzhou)."
+  location         : "Guangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=pRJXjSUAAAAJ"
-  email            : "rayment@bupt.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=X8b1RoYAAAAJ"
+  email            : "shawnxzhu@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

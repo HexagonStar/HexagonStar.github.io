@@ -17,49 +17,78 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate majoring in computer science in School of Computer Science at Beijing University of Posts and Telecommunications (BUPT). I am also a Ph.D. candidate in School of Electronic Information and Electrical Engineering at Shanghai Jiao Tong University, co-advised by [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ) and [Prof. Jifeng Dai](https://jifengdai.org/).
+# 🧑🏻 Bio
 
-Before this, I was fortunate to be an intern at Beijing Institute for General Artificial Intelligence (BIGAI), under the supervision of [Prof. Yitao Liang](https://web.cs.ucla.edu/~yliang/).
+I'm an incoming Mphil student at The Hong Kong University of Science and Technology (Guangzhou) and obtained my bachelor degree at Beijing University of Posts and Telecommunications.
+
+Before this, I was fortunate to be a research intern at **Tencent AI Lab** under supervision of [Prof. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=zh-CN) and **CAIRI  Westlake University** under supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN).
+
 
 # 🔬 Research Interests
 
-I work on vision-language models and am interested in related topics, including decision-making and large pre-trained foundation models.
+My previous research primarily focused on **AI for Science**. Specifically, I explored the potential and application of Graph Neural Networks and Large Language Models in biology. You can view my publication list for more details.
+
+
 
 # 🔥 News
-- *2023/10*: &nbsp;🎉🎉 I received CCF Elite Collegiate Award.
-- *2023/09*: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) is accepted by NeurIPS 2023.
-- *2023/07*: &nbsp;🎉🎉 [DEPS](https://arxiv.org/pdf/2302.01560.pdf) received Best Paper Award at ICML 2023 TEACH Workshop!
+- *2023/09*: &nbsp;🎉🎉 One [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf) is accepted by NeurIPS 2023.
 
 # 📝 Publications 
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[Understanding the Limitations of Deep Models for Molecular property prediction: Insights and Solutions](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf)
+<font color="red">Spotlight Talk, ICML 2023 Computational Biology Workshop</font>
 
-[Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents](https://arxiv.org/pdf/2302.01560.pdf)
+Jun Xia\*, Lecheng Zhang\*, **Xiao Zhu**\*, Yue Liu, Zhangyang Gao, Bozhen Hu, Cheng Tan, Jiangbin Zheng, Siyuan Li, Stan Z. Li
 
-<font color="red">Best Paper Award, ICML 2023 TEACH Workshop</font>
+**NeurIPS 2023** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf) | [Code](https://github.com/junxia97/IFM) 
+<!-- </div>
+</div> -->
 
-Zihao Wang, Shaofei Cai, **Guanzhou Chen**, Anji Liu, Xiaojian Ma, Yitao Liang
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+---
+[GLBench: A Comprehensive Benchmark for Graph with Large Language Models](https://arxiv.org/abs/2407.07457)
 
-**NeurIPS 2023** | [Paper](https://arxiv.org/pdf/2302.01560.pdf) | [Code](https://github.com/CraftJarvis/MC-Planner) | ![Stars](https://img.shields.io/github/stars/CraftJarvis/MC-Planner)
-</div>
-</div>
+Yuhan Li\*, Peisong Wang\*, **Xiao Zhu**, Aochuan Chen, Haiyun Jiang, Deng Cai, Victor Wai Kin Chan, Jia Li
 
-# 🌟 Selected Honors and Awards
-- *2023/10* CCF Elite Collegiate Award
-- *2022/07* Silver Medal, ICPC Asia-East Final
-- *2021/11* Gold Medal, 9th place, 2021 China Collegiate Programming Contest, Harbin 🏅
-- *2021/11* Gold Medal, 20th place, 46th ICPC Asia, Shenyang 🏅
-- *2021/04* Gold Medal, 13th place, 45th ICPC Asia, Kunming 🏅
-- *2019/07* Brozen Medal, 36th National Olympic in Informatics
+**Under Review** | [Paper](https://arxiv.org/abs/2407.07457) | [Code](https://github.com/NineAbyss/GLBench) 
+<!-- </div>
+</div> -->
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+---
+[CD-GPT: A Biological Foundation Model Bridging the Gap between Molecular Sequences Through Central Dogma](https://www.biorxiv.org/content/10.1101/2024.06.24.600337v1.abstract)
+
+
+**Xiao Zhu**, Chenchen Qin, Fang Wang, Fan Yang, Bing He, Yu Zhao, Jianhua Yao
+
+**Under Review** | [Paper](https://www.biorxiv.org/content/10.1101/2024.06.24.600337v1.abstract) | [Code](https://github.com/TencentAI4S/CD-GPT) 
+<!-- </div>
+</div> -->
+
+
+
+<!-- # 🌟 Selected Honors and Awards -->
+
 
 # 📖 Educations
+
+<div class='school-box'>
+<div><img src='images/hkustgz.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+*2024/09 - now*, Postgraduate
+
+The Hong Kong University of Science and Technology (Guangzhou), Guangzhou
+</div>
+</div>
+
 <div class='school-box'>
 <div><img src='images/bupt.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-2020/09 - now, Undergraduate
-
-School of Computer Science
+*2020/09 - 2024/07*, Bachelor
 
 Beijing University of Posts and Telecommunications, Beijing
 </div>
@@ -76,5 +105,6 @@ Beijing University of Posts and Telecommunications, Beijing
 -->
 
 # 💻 Internships
-- *2024/02 - Now*: Trainee researcher at [Shanghai Artificial Intelligence Laboratory](https://www.shlab.org.cn/), Beijing.
+- *2023/09 - 2024/07*: Research Intern at **Tencent AI Lab**, under supervision of [Prof. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=zh-CN).
+- *2023/02 - 2023/08*: Visiting Student at **CAIRI, Westlake University**, under supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN).
 
