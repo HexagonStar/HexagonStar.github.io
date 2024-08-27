@@ -19,7 +19,7 @@ redirect_from:
 
 # 🧑🏻 Bio
 
-I'm an incoming Mphil student at The Hong Kong University of Science and Technology (Guangzhou) and obtained my bachelor degree at Beijing University of Posts and Telecommunications.
+I'm a Mphil student at The Hong Kong University of Science and Technology (Guangzhou) and obtained my bachelor degree at Beijing University of Posts and Telecommunications.
 
 Before this, I was fortunate to be a research intern at **Tencent AI Lab** under supervision of [Prof. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=zh-CN) and **CAIRI  Westlake University** under supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN).
 
@@ -38,7 +38,6 @@ My previous research primarily focused on **AI for Science**. Specifically, I ex
 <div class='paper-box-text' markdown="1"> -->
 
 [Understanding the Limitations of Deep Models for Molecular property prediction: Insights and Solutions](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf)
-<font color="red">Spotlight Talk, ICML 2023 Computational Biology Workshop</font>
 
 Jun Xia\*, Lecheng Zhang\*, **Xiao Zhu**\*, Yue Liu, Zhangyang Gao, Bozhen Hu, Cheng Tan, Jiangbin Zheng, Siyuan Li, Stan Z. Li
 
