@@ -103,7 +103,26 @@ Beijing University of Posts and Telecommunications, Beijing
 - *2021/03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-# 💻 Internships
+<!-- # 💻 Internships
 - *2023/09 - 2024/07*: Research Intern at **Tencent AI Lab**, under supervision of [Prof. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=zh-CN).
-- *2023/02 - 2023/08*: Visiting Student at **CAIRI, Westlake University**, under supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN).
+- *2023/02 - 2023/08*: Visiting Student at **CAIRI, Westlake University**, under supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN). -->
 
+# 💻 Internships
+
+<div class='school-box'>
+<div><img src='images/tencentailab.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+*2023/09 - 2024/07*, Research Intern
+
+**Tencent AI Lab**, under supervision of [Prof. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=zh-CN)
+</div>
+</div>
+
+<div class='school-box'>
+<div><img src='images/westlake.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+*2023/02 - 2023/08*, Visiting Student
+
+**CAIRI, Westlake University**, under supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN)
+</div>
+</div>
