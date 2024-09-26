@@ -52,7 +52,7 @@ Jun Xia\*, Lecheng Zhang\*, **Xiao Zhu**\*, Yue Liu, Zhangyang Gao, Bozhen Hu, C
 
 Yuhan Li\*, Peisong Wang\*, **Xiao Zhu**, Aochuan Chen, Haiyun Jiang, Deng Cai, Victor Wai Kin Chan, Jia Li
 
-**Under Review** | [Paper](https://arxiv.org/abs/2407.07457) | [Code](https://github.com/NineAbyss/GLBench) ｜ ![Stars](https://img.shields.io/github/stars/NineAbyss/GLBench)
+**NeurIPS 2024** | [Paper](https://arxiv.org/abs/2407.07457) | [Code](https://github.com/NineAbyss/GLBench) ｜ ![Stars](https://img.shields.io/github/stars/NineAbyss/GLBench)
 <!-- </div>
 </div> -->
 
