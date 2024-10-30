@@ -31,42 +31,44 @@ My previous research primarily focused on **AI for Science**. Specifically, I ex
 
 
 # 🔥 News
-- *2023/09*: &nbsp;🎉🎉 One [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf) is accepted by NeurIPS 2023.
+- *2024/09*: &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2407.07457) is accepted by NeurIPS 2024!
+
+- *2023/09*: &nbsp;🎉🎉 One [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf) is accepted by NeurIPS 2023!
 
 # 📝 Publications 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/understand.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Understanding the Limitations of Deep Models for Molecular property prediction: Insights and Solutions](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf)
 
 Jun Xia\*, Lecheng Zhang\*, **Xiao Zhu**\*, Yue Liu, Zhangyang Gao, Bozhen Hu, Cheng Tan, Jiangbin Zheng, Siyuan Li, Stan Z. Li
 
 **NeurIPS 2023** | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf) | [Code](https://github.com/junxia97/IFM) ｜ ![Stars](https://img.shields.io/github/stars/junxia97/IFM)
-<!-- </div>
-</div> -->
+</div>
+</div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
----
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/papers/trend.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [GLBench: A Comprehensive Benchmark for Graph with Large Language Models](https://arxiv.org/abs/2407.07457)
 
 Yuhan Li\*, Peisong Wang\*, **Xiao Zhu**, Aochuan Chen, Haiyun Jiang, Deng Cai, Victor Wai Kin Chan, Jia Li
 
 **NeurIPS 2024** | [Paper](https://arxiv.org/abs/2407.07457) | [Code](https://github.com/NineAbyss/GLBench) ｜ ![Stars](https://img.shields.io/github/stars/NineAbyss/GLBench)
-<!-- </div>
-</div> -->
+</div>
+</div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/2302.01560.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
----
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">bioRxiv</div><img src='images/papers/cdgpt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [CD-GPT: A Biological Foundation Model Bridging the Gap between Molecular Sequences Through Central Dogma](https://www.biorxiv.org/content/10.1101/2024.06.24.600337v1.abstract)
 
 
 **Xiao Zhu**, Chenchen Qin, Fang Wang, Fan Yang, Bing He, Yu Zhao, Jianhua Yao
 
 **Under Review** | [Paper](https://www.biorxiv.org/content/10.1101/2024.06.24.600337v1.abstract) | [Code](https://github.com/TencentAI4S/CD-GPT) ｜ ![Stars](https://img.shields.io/github/stars/TencentAI4S/CD-GPT)
-<!-- </div>
-</div> -->
+</div>
+</div>
 
 
 
