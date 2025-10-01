@@ -59,7 +59,7 @@ My previous research primarily focused on AI for Science. I explored the potenti
 
 **Xiao Zhu**, Chenchen Qin, Fang Wang, Fan Yang, Bing He, Yu Zhao, Jianhua Yao
 
-**bioRxiv** | [Paper](https://www.biorxiv.org/content/10.1101/2024.06.24.600337v1.abstract) | [Code](https://github.com/TencentAI4S/CD-GPT) ｜ ![Stars](https://img.shields.io/github/stars/TencentAI4S/CD-GPT)
+**bioRxiv** | [Paper](https://www.biorxiv.org/content/biorxiv/early/2025/02/11/2024.06.24.600337.full.pdf) | [Code](https://github.com/TencentAI4S/CD-GPT) ｜ ![Stars](https://img.shields.io/github/stars/TencentAI4S/CD-GPT)
 </div>
 </div>
 
