@@ -17,20 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🧑🏻 Bio
+# 👋 About Me
 
-I'm a Mphil student at The Hong Kong University of Science and Technology (Guangzhou) under supervision of [Prof. Yanlin Zhang](https://zhyanlin.github.io/) and [Prof. Zhijiang Guo](https://cartus.github.io/). I obtained my bachelor degree at Beijing University of Posts and Telecommunications.
+I'm a second-year MPhil student at The Hong Kong University of Science and Technology (Guangzhou), supervised by [Prof. Yanlin Zhang](https://zhyanlin.github.io/) and [Prof. Zhijiang Guo](https://cartus.github.io/). I obtained my bachelor's degree from Beijing University of Posts and Telecommunications. Before pursuing my MPhil, I was fortunate to work as a research intern at **Tencent AI Lab** under the supervision of [Prof. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=zh-CN) and at **CAIRI, Westlake University** under the supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN).
 
-Before this, I was fortunate to be a research intern at **Tencent AI Lab** under supervision of [Prof. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=zh-CN) and **CAIRI  Westlake University** under supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN).
-
-
-# 🔬 Research Interests
-
-My previous research primarily focused on AI for Science. I explored the potential of Graph Neural Networks and Large Language Models in biology. Currently, I am working on reward modeling for Large Language Models, aiming to improve their performance and alignment with human preferences.
+My research interests focus on **code generation** and **reward modeling** for large language models. Feel free to reach out for potential collaborations, job opportunities, or if you just want to have a chat!
 
 
 
 # 🔥 News
+- *2025/10*: &nbsp;🚀 I began my internship at Kuaishou!
+
+- *2025/05*: &nbsp;🎊 Happy to join [Lark Lab](https://lark-lab-hkustgz.github.io/) under the guidance of Prof. Guo!
+
 - *2024/09*: &nbsp;🎉 One [paper](https://arxiv.org/abs/2407.07457) is accepted by NeurIPS 2024!
 
 - *2024/09*: &nbsp;🛫 I started my new journey at HKUST(GZ)!
@@ -126,11 +125,20 @@ Beijing University of Posts and Telecommunications, Beijing
 # 💻 Internships
 
 <div class='school-box'>
+<div><img src='images/kuaishou.png' alt="sym" width="80"></div>
+<div class='school-box-text' markdown="1">
+*2025/10 - Present*, Research Intern
+
+**Kuaishou Technology**, Hangzhou
+</div>
+</div>
+
+<div class='school-box'>
 <div><img src='images/tencentailab.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
 *2023/09 - 2024/07*, Research Intern
 
-**Tencent AI Lab**, under supervision of [Prof. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=zh-CN)
+**Tencent AI Lab**, Shenzhen, under supervision of [Prof. Jianhua Yao](https://scholar.google.com/citations?user=3bQwlCQAAAAJ&hl=zh-CN)
 </div>
 </div>
 
@@ -139,6 +147,6 @@ Beijing University of Posts and Telecommunications, Beijing
 <div class='school-box-text' markdown="1">
 *2023/02 - 2023/08*, Visiting Student
 
-**CAIRI, Westlake University**, under supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN)
+**CAIRI, Westlake University**, Hangzhou, under supervision of [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ&hl=zh-CN)
 </div>
 </div>
