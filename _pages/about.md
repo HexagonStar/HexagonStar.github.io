@@ -38,7 +38,7 @@ My research interests focus on **code generation** and **reward modeling** for l
 
 - *2023/09*: &nbsp;🎉 One [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf) is accepted by NeurIPS 2023!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 
 <div class='paper-box'><div class='paper-box-image' style="max-width: 200px;"><div><div class="badge">Arxiv</div><img src='images/papers/charm.png' alt="sym" width="100%"></div></div>
@@ -95,7 +95,7 @@ Yuhan Li\*, Peisong Wang\*, **Xiao Zhu**, Aochuan Chen, Haiyun Jiang, Deng Cai, 
 <div class='school-box'>
 <div><img src='images/hkustgz.png' alt="sym" width="80"></div>
 <div class='school-box-text' markdown="1">
-*2024/09 - now*, Postgraduate
+*2024/09 - Present*, Postgraduate
 
 The Hong Kong University of Science and Technology (Guangzhou), Guangzhou
 </div>
