@@ -34,6 +34,8 @@ My research interests focus on **code generation** and **reward modeling** for l
 
 - *2024/09*: &nbsp;🛫 I started my new journey at HKUST(GZ)!
 
+- *2023/09*: &nbsp;🚀 I began my internship at Tencent AI Lab!
+
 - *2023/09*: &nbsp;🎉 One [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf) is accepted by NeurIPS 2023!
 
 # 📝 Publications 
