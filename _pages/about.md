@@ -38,8 +38,18 @@ My research interests focus on **code generation** and **reward modeling** for l
 
 - *2023/09*: &nbsp;🎉 One [paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/cc83e97320000f4e08cb9e293b12cf7e-Paper-Conference.pdf) is accepted by NeurIPS 2023!
 
-# 📝 Selected Publications 
+# 📝 Selected Publications
 
+<div class='paper-box'><div class='paper-box-image' style="max-width: 200px;"><div><div class="badge">Arxiv</div><img src='images/papers/codescaler.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' style="margin-left: 0px;" markdown="1">
+
+[CodeScaler: Scaling Code LLM Training and Test-Time Inference via Execution-Free Reward Models](https://arxiv.org/abs/2602.17684)
+
+**Xiao Zhu**\*, Xinyu Zhou\*, Boyu Zhu, Hanxu Hu, Mingzhe Du, Haotian Zhang, Huiming Wang, Zhijiang Guo
+
+**Arxiv** | [Paper](https://arxiv.org/abs/2602.17684) | [Code](https://github.com/LARK-AI-Lab/CodeScaler) ｜ ![Stars](https://img.shields.io/github/stars/LARK-AI-Lab/CodeScaler)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image' style="max-width: 200px;"><div><div class="badge">Arxiv</div><img src='images/papers/charm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' style="margin-left: 0px;" markdown="1">
